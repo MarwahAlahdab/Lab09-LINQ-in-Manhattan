@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "w1V6mgJMLufvq1V6Uj4LLElK7YvGSwiGUwqcRIQwaYyQeQOZklyG3glwYic7NSoC4LfF2IPIz90EcX4g8b+iHw==",
+  "success": true,
+  "projectFilePath": "/Users/marwaalahdab/Desktop/Advanced/Lab09-LINQ-in-Manhattan/LINQ/LINQ.csproj",
+  "expectedPackageFiles": [
+    "/Users/marwaalahdab/.nuget/packages/newtonsoft.json/13.0.3/newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
